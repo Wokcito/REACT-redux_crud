@@ -1,19 +1,19 @@
 {
-  "posts": [
+  "productos": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nombre": "Rib Eye",
+      "precio": "500",
+      "id": 7
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nombre": "Jugo de Limón",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "1",
+      "precio": 2,
+      "id": 10
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
